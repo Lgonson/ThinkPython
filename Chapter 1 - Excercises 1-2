@@ -1,0 +1,15 @@
+#Think python Chapter 1
+#Excercises 1-2
+
+
+miles = 16.1
+seconds = 2562
+print("The Miles per Seconds are:")
+MilesPerSeconds = miles/seconds
+print(MilesPerSeconds)
+MilesPerMinutes = MilesPerSeconds*60
+print("The miles per Minute are:")
+print(MilesPerMinutes)
+MilesPerHours = MilesPerMinutes*60
+print("The Average speed per Hour is:")
+print(MilesPerHours)
